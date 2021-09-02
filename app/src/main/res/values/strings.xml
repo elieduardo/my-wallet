@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyWallet</string>
+    <string name="forgot_password"><u>Esqueceu a senha?</u></string>
+    <string name="create_account"><u>Criar uma conta</u></string>
+</resources>
